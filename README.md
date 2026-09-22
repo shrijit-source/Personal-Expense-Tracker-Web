@@ -1,1 +1,1 @@
-# Personal-Expense-Tracker-Web
+**Personal Expense Tracker Web App** is a simple web application that helps users manage their income and expenses. It allows users to add, categorize, filter, and delete transactions while automatically calculating total income, expenses, and balance. Built with **HTML, CSS, and JavaScript**, it uses **Local Storage** to save data and provides a responsive, user-friendly interface.
